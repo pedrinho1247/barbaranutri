@@ -91,10 +91,10 @@ footer{
     }
 
     #logo{
-        width: 400px;
-        height: 100px;
+        width: 3500px;
+        height: 90px;
         position: absolute;
-        background-size: 400px 100px;
+        background-size: 350px 90px;
         background-image: url("B_logo.png");
         background-repeat: no-repeat;
         left: 5%;
