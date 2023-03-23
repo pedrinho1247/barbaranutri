@@ -99,7 +99,24 @@ footer{
         background-repeat: no-repeat;
         left: 5%;
       }
-    
+}
+
+@media screen and (max-width: 1680px){
+    #menu ul{
+        margin-left: 55%;
+        margin-top: 0;
+        background-color: #ffffc9;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1440px){
+    #menu ul{
+        margin-left: 47%;
+        margin-top: 0;
+        background-color: #ffffc9;
+        font-size: 18px;
+    }
 }
 
 
